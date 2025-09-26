@@ -1,0 +1,6 @@
+streamlit
+docxtpl
+python-docx
+pytz
+docx2pdf
+jinja2
